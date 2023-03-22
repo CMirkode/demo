@@ -1,4 +1,4 @@
-# bio di lecun
+# bio di yann lecun
 
 Nacque nel 1960 in un sobborgo di Parigi. Nel 1983 si diploma a Parigi in ingegneria, (Diplôme d'Ingénieur) presso la Ecole Superieure d'Ingénieur en Electrotechnique et Electronique (ESIEE), e nel 1987 il dottorato in Informatica presso l'Università Pierre e Marie Curie, durante il quale ha proposto una prima variante dell'algoritmo noto come back-propagation, utilizzato successivamente come principale metodo di apprendimento delle reti neurali artificiali.[3] È stato postdoc presso il laboratorio di Geoffrey Hinton all'Università di Toronto.
 
