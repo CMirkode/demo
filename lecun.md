@@ -1,0 +1,15 @@
+# bio di lecun
+
+Nacque nel 1960 in un sobborgo di Parigi. Nel 1983 si diploma a Parigi in ingegneria, (Diplôme d'Ingénieur) presso la Ecole Superieure d'Ingénieur en Electrotechnique et Electronique (ESIEE), e nel 1987 il dottorato in Informatica presso l'Università Pierre e Marie Curie, durante il quale ha proposto una prima variante dell'algoritmo noto come back-propagation, utilizzato successivamente come principale metodo di apprendimento delle reti neurali artificiali.[3] È stato postdoc presso il laboratorio di Geoffrey Hinton all'Università di Toronto.
+
+Nel 1988, presso i Bell Laboratories, a Murray Hill, in New Jersey, è diventato membro del Dipartimento dell'Adaptive Systems Research, sotto la guida di Lawrence D. Jackel. In questi anni, si dedicò allo sviluppo di una serie di nuovi algoritmi di apprendimento automatico, tra i quali i più noti sono sicuramente una serie di modelli ispirati dalla biologia, sviluppati per il riconoscimento automatico di immagini, note come Reti neurali convoluzionali,[4] ed il metodo di regolarizzazione, noto come Optimal Brain Damage,[5] metodologie applicate principalmente nel riconoscimento di testi scritti a mano e OCR.[6] Ha inoltre contribuito alla creazione di un sistema di riconoscimento dei controlli bancari, ampiamente diffuso sia dalla NCR che da altre società, arrivando a leggere oltre il 10% di tutti i controlli negli Stati Uniti, tra la fine degli anni '90 e l'inizio del 2000.
+
+Nel 1996 ha ricoperto l'incarico di ricercatore principale presso i Laboratori AT&T, nel Dipartimento di Processazione delle Immagini, parte allora del Laboratorio per la processazione automatica del linguaggio e delle immagini guidato da Lawrence Rabiner. In questo contesto ha lavorato principalmente sulla tecnologia DjVu,[7] tuttora usata da numerosi siti internet tra cui l'Internet Archive.
+
+Dopo un breve incarico presso il NEC Research Institute di Princeton, nel 2003 ha ottenuto una docenza in Informatica e in Neuroscienze sia presso la New York University, che presso la Tandon School of Engineering[8][9]. In questo ruolo, si è dedicato principalmente allo sviluppo di algoritmi per l'apprendimento, sia supervisionando che non supervisionando (supervised e unsupervised learning),[10] le tecnologia di visione artificiale[11] e di robotica.[12]
+
+Nel 2012 ha fondato, presso la New York University, il Centro della Scienza dei Dati.[13] Nel 2013, in collaborazione con Yoshua Bengio, ha fondato la International Conference on Learning Representations. Nel Dicembre 2013 è diventato il primo direttore del Facebook AI Research a New York,[14] interrompendo il lavoro presso la New York University nei primi mesi del 2014.
+
+Nel 2016 è stato nominato professore ospite (Visiting Professor) presso il Collège de France di Parigi. La sua conferenza inaugurale (leçon inaugurale) ha costituito un momento importante nella vita intellettuale parigina.
+
+Nel marzo 2019 ha ricevuto il premio Turing (insieme a Yoshua Bengio e Geoffrey Hinton) per le scoperte concettuali e ingegneristiche che hanno reso le reti neurali profonde un componente critico dell'informatica.
